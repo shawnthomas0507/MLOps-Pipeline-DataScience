@@ -5,5 +5,7 @@ pymongo
 certifi
 pymongo[srv]
 ipykernel
-
+scikit-learn
+dill
+pyaml
 ##-e.
