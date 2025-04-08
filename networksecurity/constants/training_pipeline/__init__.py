@@ -56,3 +56,7 @@ MODEL_TRAIANER_OVER_UNDER_THRESHOLD=0.05
 
 
 SAVED_MODEL_DIR=os.path.join("saved_models")
+
+
+
+TRAINING_BUCKET_NAME="networksecurityyy"

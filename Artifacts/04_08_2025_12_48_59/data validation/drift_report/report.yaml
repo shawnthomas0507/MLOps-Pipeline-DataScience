@@ -1,0 +1,150 @@
+AbnormalExtFormActionR:
+  drift_status: false
+  p_value: 0.9973045597706001
+AbnormalFormAction:
+  drift_status: false
+  p_value: 1.0
+AtSymbol:
+  drift_status: false
+  p_value: 1.0
+CLASS_LABEL:
+  drift_status: false
+  p_value: 0.9995734724117966
+DomainInPaths:
+  drift_status: false
+  p_value: 1.0
+DomainInSubdomains:
+  drift_status: false
+  p_value: 0.9999999837355162
+DoubleSlashInPath:
+  drift_status: false
+  p_value: 1.0
+EmbeddedBrandName:
+  drift_status: false
+  p_value: 0.960689631696038
+ExtFavicon:
+  drift_status: false
+  p_value: 0.9879111500545891
+ExtFormAction:
+  drift_status: false
+  p_value: 0.9999999999999986
+ExtMetaScriptLinkRT:
+  drift_status: false
+  p_value: 0.7471426732396521
+FakeLinkInStatusBar:
+  drift_status: false
+  p_value: 1.0
+FrequentDomainNameMismatch:
+  drift_status: false
+  p_value: 0.65879142419152
+HostnameLength:
+  drift_status: false
+  p_value: 0.9950841874838783
+HttpsInHostname:
+  drift_status: false
+  p_value: 1.0
+IframeOrFrame:
+  drift_status: false
+  p_value: 1.0
+ImagesOnlyInForm:
+  drift_status: false
+  p_value: 1.0
+InsecureForms:
+  drift_status: false
+  p_value: 1.0
+IpAddress:
+  drift_status: false
+  p_value: 1.0
+MissingTitle:
+  drift_status: false
+  p_value: 1.0
+NoHttps:
+  drift_status: false
+  p_value: 1.0
+NumAmpersand:
+  drift_status: false
+  p_value: 0.9999504259052857
+NumDash:
+  drift_status: false
+  p_value: 0.999898074582493
+NumDashInHostname:
+  drift_status: false
+  p_value: 0.9999999999999795
+NumDots:
+  drift_status: false
+  p_value: 0.9999951869058524
+NumHash:
+  drift_status: false
+  p_value: 1.0
+NumNumericChars:
+  drift_status: false
+  p_value: 0.9069003024282345
+NumPercent:
+  drift_status: false
+  p_value: 0.9999999999999308
+NumQueryComponents:
+  drift_status: false
+  p_value: 0.868383158981554
+NumSensitiveWords:
+  drift_status: false
+  p_value: 0.999999869742346
+NumUnderscore:
+  drift_status: false
+  p_value: 0.9999999518896869
+PathLength:
+  drift_status: false
+  p_value: 0.2479879878070731
+PathLevel:
+  drift_status: false
+  p_value: 0.9630326595433554
+PctExtHyperlinks:
+  drift_status: false
+  p_value: 0.17037099686274393
+PctExtNullSelfRedirectHyperlinksRT:
+  drift_status: false
+  p_value: 0.9908365016274364
+PctExtResourceUrls:
+  drift_status: false
+  p_value: 0.14529698883037234
+PctExtResourceUrlsRT:
+  drift_status: false
+  p_value: 0.9916849266389507
+PctNullSelfRedirectHyperlinks:
+  drift_status: false
+  p_value: 0.9447070905374538
+PopUpWindow:
+  drift_status: false
+  p_value: 1.0
+QueryLength:
+  drift_status: false
+  p_value: 0.5013621176212826
+RandomString:
+  drift_status: false
+  p_value: 1.0
+RelativeFormAction:
+  drift_status: false
+  p_value: 1.0
+RightClickDisabled:
+  drift_status: false
+  p_value: 1.0
+SubdomainLevel:
+  drift_status: false
+  p_value: 0.16509938071602925
+SubdomainLevelRT:
+  drift_status: false
+  p_value: 1.0
+SubmitInfoToEmail:
+  drift_status: false
+  p_value: 0.9981977979127341
+TildeSymbol:
+  drift_status: false
+  p_value: 1.0
+UrlLength:
+  drift_status: false
+  p_value: 0.21745610999031595
+UrlLengthRT:
+  drift_status: false
+  p_value: 0.22398131752853523
+id:
+  drift_status: false
+  p_value: 0.4902846274387672
