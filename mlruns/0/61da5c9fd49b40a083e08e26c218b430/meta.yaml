@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shawn/OneDrive/Desktop/Krish%20Naik%20MLOPS/e2e2/mlruns/0/61da5c9fd49b40a083e08e26c218b430/artifacts
+end_time: 1744130185252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61da5c9fd49b40a083e08e26c218b430
+run_name: able-skink-693
+run_uuid: 61da5c9fd49b40a083e08e26c218b430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744130176110
+status: 3
+tags: []
+user_id: shawn

@@ -42,3 +42,17 @@ DATA_TRANSFORMATION_IMPUTER_PARAMS: dict={
     "n_neighbors": 3,
     "weights": "uniform"
 }
+
+
+
+
+
+MODEL_TRAINER_DIR_NAME="model_trainer"
+MODEL_TRAINER_MODEL_DIR="trained_model"
+MODEL_FILE_NAME="model.pkl"
+MODEL_TRAINER_EXPECTED_SCORE=0.6
+MODEL_TRAIANER_OVER_UNDER_THRESHOLD=0.05
+
+
+
+SAVED_MODEL_DIR=os.path.join("saved_models")
