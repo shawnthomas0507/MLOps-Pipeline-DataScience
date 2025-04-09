@@ -1,6 +1,6 @@
 FROM python:3.10-alpine
 
-WORDKDIR /app
+WORKDIR /app
 COPY . /app 
 
 RUN apt update -y && apt install awscli -y
