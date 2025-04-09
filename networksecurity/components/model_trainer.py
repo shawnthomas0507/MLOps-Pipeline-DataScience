@@ -18,7 +18,9 @@ from sklearn.ensemble import (
 )
 import mlflow
 import dagshub
-dagshub.init(repo_owner='shawnthomas0507', repo_name='networksecurity', mlflow=True)
+os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/shawnthomas0507/networksecurity.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"]="shawnthomas0507"
+os.environ['MLFLOW_TRACKING_PASSWORD']="2061b8589608029d512100109903e8a93d0b107d"
 
 
 class ModelTrainer:
