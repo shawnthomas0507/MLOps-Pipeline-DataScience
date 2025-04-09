@@ -12,7 +12,7 @@ on:
 jobs:
     integration:
         name: Continuous Integration
-        runs-on: ubunut-latest
+        runs-on: ubuntu-latest
         steps:
             - name: Checkout code
               uses: actions/checkout@v3
@@ -30,12 +30,12 @@ jobs:
         runs-on: ubuntu-latest
         
         steps:
-            - name: Chekout Code
+            - name: Checkout Code
               uses: actions/checkout@v3
             
             - name: Install utilities
               run: |
-                 sudo apt-get-update
+                 sudo apt-get update
                  sudo apt-get install -y jq unzip
 
             - name: Configure AWS Credentials
@@ -49,6 +49,6 @@ jobs:
             - name: Login to Amazon ECR
               id: login-ecr
               uses: aws-actions/amazon-ecr-login@v1
-              
+
 
 
