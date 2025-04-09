@@ -80,7 +80,6 @@ jobs:
               env:
                 ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
                 ECR_REPOSITORY: ${{ secrets.ECR_REPOSITORY_NAME }}
-                
               run: |
                     docker pull $ECR_REGISTRY/$ECR_REPOSITORY:latest
             
