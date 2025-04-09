@@ -78,7 +78,7 @@ jobs:
             
             - name: Pull latest images
               run: |
-                    docker pull $ECR_REGISTRY/${{ secrets.ECR_REPOSITORY_NAME }}:latest
+                    docker pull $ECR_REGISTRY/$ECR_REPOSITORY:latest
             
             - name: Run Docker to serve users
               run: |
