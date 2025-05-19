@@ -18,7 +18,7 @@ The MLOps-Pipeline-DataScience project is designed to streamline the process of 
 
 - Python 3.x
 - Docker
-- AWS CLI configured with your credentials (This roject uses AWS ECR (for docker image storage) and EC2 (for compute) )
+- AWS CLI configured with your credentials (This project uses AWS ECR (for docker image storage) and EC2 (for compute) )
  
 ### Installation
 
